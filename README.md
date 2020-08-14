@@ -1,4 +1,4 @@
-## 👋 Hello
+# 👋 Hello
 
 Hi there, I hope you're doing fine !<br>
 I'm Olivier and I'm passionnate about technology, apps development and I ❤️ working on open source projects. 
@@ -53,16 +53,16 @@ I'm Olivier and I'm passionnate about technology, apps development and I ❤️ 
 
 ### Get in touch !
 <p>
-  <a href="https://twitter.com/br4ss4rdo">
+  <a href="https://twitter.com/br4ss4rdo" style="text-decoration: none">
       <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/obrassard/">
+  <a href="https://www.linkedin.com/in/obrassard/" style="text-decoration: none">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/channels/@me/">
+  <a href="https://discordapp.com/channels/@me/" style="text-decoration: none">
     <img alt="Discord" src="https://img.shields.io/badge/-sensei%231430-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:hey@obrassard.ca">
+  <a href="mailto:hey@obrassard.ca" style="text-decoration: none">
     <img alt="Mail" src="https://img.shields.io/badge/-hey@obrassard.ca-D14836?style=for-the-badge&logo=mail.ru&logoColor=white" />
   </a>
 </p>
