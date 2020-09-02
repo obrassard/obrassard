@@ -65,6 +65,12 @@ I'm Olivier and I'm passionnate about technology, apps development and I ❤️ 
   <a href="mailto:hey@obrassard.ca" style="text-decoration: none">
     <img alt="Mail" src="https://img.shields.io/badge/-hey@obrassard.ca-D14836?style=for-the-badge&logo=mail.ru&logoColor=white" />
   </a>
+    
+<a href="https://dev.to/obrassard">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Olivier Brassard's DEV Profile" height="30" width="30">
+</a>
+        
+    
 </p>
 
 #### Thanks for visiting my profile !
