@@ -53,7 +53,7 @@ I am a 2nd year software engineering student and app development enthusiast from
 
 ### Get in touch !
 <p>
-  <a href="https://twitter.com/br4ss4rdo" style="text-decoration: none">
+  <a href="https://twitter.com/brassardoli" style="text-decoration: none">
       <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/obrassard/" style="text-decoration: none">
