@@ -8,7 +8,7 @@ I am a 2nd year software engineering student and app development enthusiast from
 
 * 🇨🇦 From **Montreal, Canada**
 * 🎓 Studying **Software Engineering** @ ETS Montreal
-* 🎉 **Cofounded [Writools Digital Agency](https://writools.ca)**, *a new agency that aims to develop products that improve users' life*
+* 🎉 **Cofounded [Altevo](https://altevo.ca)**, *a new agency that aims to develop products to elevate businesses*
 * 🌎 Here's my website : [obrassard.ca](https://obrassard.ca?lang=en), give it a look!
 
 #### My interests : 
