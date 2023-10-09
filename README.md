@@ -18,7 +18,7 @@ I ❤️ working on open source projects !
 * 💻 Web Development, Design, AI and DevOPS
 * 🧠 Learning new things and sharing knowledge
 * 🎹 Music of all kinds
-* ⛰🚲🛶 Hiking and outdoors activities
+* 🛶 Hiking and outdoors activities
 * 🍕 Food, of course !
   
 
